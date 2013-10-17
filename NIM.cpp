@@ -31,7 +31,7 @@ int hrugufjoldi;
 //Hér byrjar aðalforritið:
 int main( )
 {
-	cout << "Anton Ã–rn ÃžÃ³rarinsson" << endl;
+	cout << "Anton Orn Thorarinsson" << endl;
 	int val;
 	do
 	{
